@@ -1,6 +1,6 @@
 # Predicción del rendimiento académico con WEKA
 
-Proyecto de aula de **MINERIA DE DATOS I (CLASE 2568)**
+Proyecto de Asignatura de **MINERIA DE DATOS I (CLASE 2568)**
 Fundación Universitaria Tecnológico Comfenalco (Cartagena).
 
 ## Objetivo
