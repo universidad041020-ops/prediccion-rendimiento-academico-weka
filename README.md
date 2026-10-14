@@ -48,11 +48,12 @@ Métricas: exactitud, precisión, recall, F-measure, matriz de confusión, Kappa
 
 ## Estructura del repositorio
 ```
-data/       student-mat.csv (original), student.txt (descripción de atributos)
-            y student-mat.arff (datos preparados para WEKA)
-docs/       Propuesta del modelo predictivo e informe metodológico
-models/     Modelos entrenados (.model), se agregan en etapas posteriores
-results/    Capturas y métricas de los experimentos, etapas posteriores
+README.md                Descripción del proyecto
+student-mat.csv          Dataset original (asignatura de Matemáticas)
+student.txt              Descripción de los atributos del dataset
+student-mat.arff         Datos preparados para WEKA (sin G1 ni G2)
+Propuesta_Modelo_Predictivo   Propuesta del modelo predictivo
+Informe_Metodologico          Informe metodológico
 ```
 
 ## Cómo reproducir
